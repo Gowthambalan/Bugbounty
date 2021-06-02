@@ -1,1 +1,1 @@
-# Bugbounty
+My Bug Bounty Resources
